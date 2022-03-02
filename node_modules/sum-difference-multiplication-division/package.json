@@ -1,0 +1,22 @@
+{
+  "name": "sum-difference-multiplication-division",
+  "version": "1.0.13",
+  "description": "Here you can add ,substract,multiply and divide two numbers by writing add(a,b) ,sub(a,b),mult(a,b),div(a,b) and it will return the calculated value",
+  "main": "maths.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amruta Khamkar",
+  "license": "ISC",
+  "keywords": [
+    "sum",
+    "Addition",
+    "substract",
+    "difference",
+    "multiply",
+    "multiplication",
+    "division",
+    "maths",
+    "additionoftwonumber"
+  ]
+}
